@@ -1633,9 +1633,15 @@ header{
     text-align: center;
 
 }
+footer{
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+}
 footer .container7{
     width: 100%;
-    height: 180vh;
+    height: 170vh;
     padding: 0;
     display: flex;
     flex-wrap: wrap;
@@ -1646,6 +1652,7 @@ footer .container7{
 footer .container7 ul {
     width: 100%;
     padding: 0px 15px; 
+    margin-bottom: 2rem;
 }
 .perintoful{
     width: 100%;
