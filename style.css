@@ -37,13 +37,13 @@ text-align: left;
 }
 
 header{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
    width: 100%;
    display: flex;
    justify-content: center;
 }
 .container{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 
     1076px;
     height: 45px;
@@ -123,7 +123,7 @@ display: flex;
 justify-content: center;
 }
 .container1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 1076px;
     
     display: flex;
@@ -132,7 +132,7 @@ justify-content: center;
 }
 
 .container1 img{
-    border: 1px solid rosybrown;
+    /* border: 1px solid rosybrown; */
     object-fit:cover;
     /* width: 518px;
     height: 293px; */
@@ -142,7 +142,7 @@ justify-content: center;
 }
 
 .content{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     width: 528px;
     height: 267px;
     display: flex;
@@ -235,14 +235,14 @@ cursor: pointer;
     margin-top: 30px;
 width: 100%;
 height: 20vh;
-border: 1px solid blue;
+/* border: 1px solid blue; */
 display: flex;
 justify-content: center;
 align-items: center;
 margin-bottom: 50px;
 }
 .container2{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 1076px;
     height: 114px;
     border-radius: 10px;
@@ -257,7 +257,7 @@ margin-bottom: 50px;
 #littel-work{
     width: 100%;
 
-    border: 1px solid rgb(0, 255, 17);
+    /* border: 1px solid rgb(0, 255, 17); */
     display: flex;
     flex-direction: row-reverse;
     padding: 0px 166px;
@@ -277,7 +277,7 @@ color: #12376B;
    
     width: 63px;
     height: 0;
-    border: 1px solid #12376B
+    /* border: 1px solid #12376B */
     
 }
 
@@ -286,7 +286,7 @@ color: #12376B;
     width: 100%;
     height: 20vh;
     padding: 0px 166px;
-    border: 1px solid brown;
+    /* border: 1px solid brown; */
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
@@ -295,7 +295,7 @@ color: #12376B;
 
 }
 .container3{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 616px;
     height: 126px;
     text-align: right;
@@ -314,7 +314,7 @@ color: #12376B;
 }
 
 #left-right{
-    border: 1px solid rgb(131, 13, 241);
+    /* border: 1px solid rgb(131, 13, 241); */
     
     display: flex;
     flex-direction: row-reverse;
@@ -324,7 +324,7 @@ color: #12376B;
 #left-right p{
     width: 49px;
     height: 49px;
-    border: 1px solid #818181;
+    /* border: 1px solid #818181; */
     border-radius:50%;
     display: flex;
     justify-content: center;
@@ -337,7 +337,7 @@ color: #12376B;
 /* start section 3 */
 #to-do-list-task{
     
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -345,7 +345,7 @@ color: #12376B;
     padding: 0px 131px;
 }
 #to-do-list-task .img{
-   border: 1px solid rosybrown;
+   /* border: 1px solid rosybrown; */
     background-image: url(./images/Rectangle\ 53.jpg);
     width: 528px;
     height: 447px;
@@ -392,7 +392,7 @@ color: #12376B;
 }
 
 .box{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-color: #F4A90540;
     width: 526px;
     height: 186px;
@@ -405,7 +405,7 @@ color: #12376B;
 .box h3{
     width: 526px;
     height: 66px;
-    border: 1px solid skyblue;
+    /* border: 1px solid skyblue; */
     background-color: #F4A905;
     display: flex;
     align-items: center;
@@ -427,7 +427,7 @@ color: #12376B;
 
 }
 .box p{
-    border: 1px solid rgb(194, 245, 12);
+    /* border: 1px solid rgb(194, 245, 12); */
     width: 400px;
     font-size: 15px;
     font-weight: 400;
@@ -439,7 +439,7 @@ color: #12376B;
 
 }
 .container-task{
-    border: 2px solid rgb(70, 2, 2);
+    /* border: 2px solid rgb(70, 2, 2); */
     display: flex;
     flex-direction: column;
     margin-top: 49px;
@@ -448,7 +448,7 @@ color: #12376B;
 }
 .task1{
     
-    border: 1px solid #f47c05;
+    /* border: 1px solid #f47c05; */
     width: 526px;
     height: 66px;
     background-color: #F5F5F5;
@@ -470,7 +470,7 @@ text-align: left;
 }
 
 .Acount{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100%;
     height: 20vh;
     margin-top: 30px;
@@ -479,7 +479,7 @@ text-align: left;
     
 }
 .container4{
-    border: 1px solid #12376B;
+    /* border: 1px solid #12376B; */
     width: 1076px;
     height: 165px;
     border-radius: 10px;
@@ -489,7 +489,7 @@ text-align: left;
     
 }
 .s1{
-    border: 1px solid #818181;
+    /* border: 1px solid #818181; */
     width: 50%;
     background-color: #286CD5;
     display: flex;
@@ -518,7 +518,7 @@ text-align: left;
 }
 
 .s2{
-    border:1px solid #818181;
+    /* border:1px solid #818181; */
     width: 50%;
     background-color: #F04B25;
     display: flex;
@@ -545,7 +545,7 @@ text-align: left;
     }
 
 .s3{
-    border:1px solid #818181;
+    /* border:1px solid #818181; */
     width: 50%;
     background-color: #F4A905;
     display: flex;
@@ -577,7 +577,7 @@ text-align: left;
 /* star section 4 */
 
 #coures{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 100%;
     height: 141vh;
     margin-top: 50px;
@@ -587,7 +587,7 @@ text-align: left;
 .diviton-card{
     width: 100%;
     height: 100vh;
-    border: 1px solid rgb(255, 0, 221);
+    /* border: 1px solid rgb(255, 0, 221); */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -596,7 +596,7 @@ text-align: left;
 }
 .container5{
     width: 100%;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     height: 100vh;
     
     
@@ -616,7 +616,7 @@ text-align: left;
     margin-bottom: 54px;
 }
 .main h1{
-    border: 1px solid rgb(96, 96, 246);
+    /* border: 1px solid rgb(96, 96, 246); */
     width: 557px;
     height: 126px;
     color: #12376B;
@@ -627,7 +627,7 @@ text-align: left;
     
 }
 .main p{
-    border: 1px solid rgb(0, 153, 255);
+    /* border: 1px solid rgb(0, 153, 255); */
     width: 411px;
     height: 83px;
     font-size: 18px;
@@ -712,7 +712,7 @@ text-align: end;
     width: 100%;
     height: 40vh;
     margin-top: 98px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     margin-bottom: 18rem;
 }
 #cline #littel-work{
@@ -725,7 +725,7 @@ text-align: end;
     width: 100%;
     height: 25vh;
     padding: 0px 166px;
-    border: 1px solid brown;
+    /* border: 1px solid brown; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -734,7 +734,7 @@ text-align: end;
 }
 #cline #Eduction-stag h5{
     width: 616px;
-   border: 1px solid blueviolet;
+   /* border: 1px solid blueviolet; */
 
 color: #282828;
 font-size: 23px;
@@ -753,7 +753,7 @@ line-height: 37.37px;
 }
 
 .box-text{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -812,7 +812,7 @@ color: #686868;
     margin-bottom: 54px;
 }
 #techers .diviton-card{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100%;
     justify-content: none;
     margin-top: 40px;
@@ -852,7 +852,7 @@ color: #686868;
 }
 
 .postion-card{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     display: flex;
     justify-content: space-between;
     padding: 0px 164px;
@@ -861,7 +861,7 @@ color: #686868;
 
 .card1{
     background-color: #F5F5F5;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-image: url(./images/Rectangle\ 24\ \(1\).png);
     background-repeat: no-repeat;
     width: 254px;
@@ -872,7 +872,7 @@ color: #686868;
 
 .card2{
     background-color: #F5F5F5;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-image: url(./images/Rectangle\ 22.png);
     background-repeat: no-repeat;
     width: 254px;
@@ -910,7 +910,7 @@ color: #686868;
 }
 .card3{
     background-color: #F5F5F5;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-image: url(./images/Rectangle\ 20.png);
     background-repeat: no-repeat;
     width: 254px;
@@ -921,7 +921,7 @@ color: #686868;
 
 .card4{
     background-color: #F5F5F5;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-image: url(./images/Rectangle\ 18.png);
     background-repeat: no-repeat;
     width: 254px;
@@ -987,7 +987,7 @@ color: #F04B25;
     left: 16px;
     right: 12px;
     top: 316px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     font-size: 15px;
     font-weight: 400;
     line-height: 23.36px;
@@ -1001,7 +1001,7 @@ color: #F04B25;
     left: 16px;
     right: 12px;
     top: 316px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     font-size: 15px;
     font-weight: 400;
     line-height: 23.36px;
@@ -1015,7 +1015,7 @@ color: #F04B25;
     left: 16px;
     right: 12px;
     top: 316px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     font-size: 15px;
     font-weight: 400;
     line-height: 23.36px;
@@ -1029,7 +1029,7 @@ color: #F04B25;
     left: 16px;
     right: 12px;
     top: 316px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     font-size: 15px;
     font-weight: 400;
     line-height: 23.36px;
@@ -1043,7 +1043,7 @@ color: #F04B25;
 
 /* start section 7 */
 #guarantee {
-    border: 2px solid rgb(18, 240, 29);
+    /* border: 2px solid rgb(18, 240, 29); */
     width: 100%;
     height: 50vh;
     display: flex;
@@ -1054,7 +1054,7 @@ color: #F04B25;
 }
 
 #guarantee .container6{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     width: 1076px;
     height: 340px;
     border-radius: 10px;
@@ -1064,7 +1064,7 @@ color: #F04B25;
     background-color: #286CD5;
 }
 #guarantee .container6 .box1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 398px;
     height: 239px;
     display: flex;
@@ -1075,11 +1075,11 @@ color: #F04B25;
 
 }
 #guarantee .container6 .box2{
-    border: 1px solid rgb(8, 0, 255);
+    /* border: 1px solid rgb(8, 0, 255); */
     width: 398px;
     height: 239px;
     position: relative;
-    border: 1px solid rgb(8, 0, 255);
+    /* border: 1px solid rgb(8, 0, 255); */
     width: 398px;
     height: 239px;
     position: relative;
@@ -1089,7 +1089,7 @@ color: #F04B25;
 
 }
 #guarantee .container6 .box2 .img1{
-    border: 1px solid rgb(94, 255, 0);
+    /* border: 1px solid rgb(94, 255, 0); */
     position: absolute;
     width: 318px;
     height: 436px;
@@ -1098,7 +1098,7 @@ color: #F04B25;
 
 }
 #guarantee .container6 .box2 .img2{
-    border: 1px solid rgb(238, 0, 255);
+    /* border: 1px solid rgb(238, 0, 255); */
     position: absolute;
     width: 130px;
     height: 88px;
@@ -1107,11 +1107,11 @@ color: #F04B25;
 
 }
 #guarantee .container6 .box2 .img3{
-    border: 1px solid rgb(238, 0, 255);
+    /* border: 1px solid rgb(238, 0, 255); */
     position: absolute;
     width: 82px;
     height: 56px;
-    border: 1px solid rgb(238, 0, 255);
+    /* border: 1px solid rgb(238, 0, 255); */
     position: absolute;
     width: 82px;
     height: 56px;
@@ -1122,7 +1122,7 @@ color: #F04B25;
 }
 
 #guarantee .container6 h2{
-    border: 1px solid rgb(131, 11, 244);
+    /* border: 1px solid rgb(131, 11, 244); */
 
     font-size: 25px;
     font-weight: 700;
@@ -1133,7 +1133,7 @@ color: #F04B25;
     
 }
 #guarantee .container6 p{
-    border: 1px solid rgb(17, 3, 31);
+    /* border: 1px solid rgb(17, 3, 31); */
    
     color: white;
     font-size: 18px;
@@ -1143,7 +1143,7 @@ color: #F04B25;
     
 }
 #guarantee .container6 button{
-    border: 1px solid rgb(11, 201, 244);
+    /* border: 1px solid rgb(11, 201, 244); */
     width: 174px;
     height: 50px;
     border-radius: 5px ;
@@ -1160,7 +1160,7 @@ color: #F04B25;
 
 /* start footer */
     footer{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         width: 100%;
         height: 100vh;
         display: flex;
@@ -1168,7 +1168,7 @@ color: #F04B25;
         align-items: center;
     }
     footer .container7{
-        border: 1px solid blue;
+        /* border: 1px solid rgb(255, 0, 153); */
         width: 1258px;
         height: 490px;
         border-radius: 1px;
@@ -1181,7 +1181,7 @@ color: #F04B25;
        
     }
     footer .container7 ul {
-        border: 1px solid rgb(0, 17, 255);
+        /* border: 1px solid rgb(0, 17, 255); */
         display: flex;
         flex-direction: column;
         align-items: flex-end;
@@ -1225,13 +1225,13 @@ line-height: 14px;
         margin-bottom: 27px;
     }
     footer .container7 .terms{
-        border: 1px solid rgb(17, 0, 255);
+        /* border: 1px solid rgb(17, 0, 255); */
         display: flex;
         justify-content: space-between;
         align-items: center;
     }
     footer .container7 .terms div{
-        border: 1px solid rgb(0, 255, 34);
+        /* border: 1px solid rgb(0, 255, 34); */
         display: flex;
         gap: 34px;
         align-items: center;
@@ -1329,7 +1329,7 @@ header{
 }
 
 .container1{
-    border: 1px solid red;
+    /* border: 1px solid red/; */
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -1470,7 +1470,7 @@ header{
 }
 
 .container-task{
-    border: 2px solid rgb(70, 2, 2);
+    /* border: 2px solid rgb(70, 2, 2); */
     width:  323px;
     display: flex;
     flex-direction: column;
@@ -1634,6 +1634,7 @@ header{
 
 }
 footer{
+    width: 100%;
     display: flex;
     justify-content: center;
 
@@ -1749,7 +1750,7 @@ footer .container7 .terms div span{
 
 }
 .container1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -2081,7 +2082,7 @@ footer .container7 .terms h5, h4, p {
     
     }
 footer .container7 .terms div{
-    border: 1px solid rgb(0, 255, 34);
+    /* border: 1px solid rgb(0, 255, 34); */
     display: flex;
     flex-wrap: wrap;
     gap: 0px;
@@ -2120,7 +2121,7 @@ footer .container7 .terms div span{
 
 }
 .container1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100%;
     display: flex;
     flex-direction: column;
