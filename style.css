@@ -100,6 +100,7 @@ header .container img{
 }
 
 .sing-in #go-in{
+    font-size: 12px;
     width: 163px;
     height: 45px;
     padding: 14px 46px;
@@ -114,6 +115,7 @@ header .container img{
     display: none;
     font-size: 27px;
     font-weight: 700;
+    border-radius: 22px;
 }
 
 
@@ -1371,9 +1373,19 @@ color:white;
     
     }
  
-    .sing-in{
-    display: none;
-}  
+    
+.sing-in #go-in{
+    font-size: 10px;
+}
+.sing-in #reqest{
+    color: white;
+    font-size: 10px;
+    background-color: #F4A905;
+    width: 163px;
+    height: 45px;
+    border-radius: 22px;
+    padding: 14px 46px;
+}
 
 .container .fa-bars{
     display: block;
@@ -1397,7 +1409,7 @@ header{
     right: 0;
     display: flex;
     flex-direction: column;
-    flex-direction: column-reverse;
+    
     justify-content: center;
     align-items: center;
     gap: 16px;
@@ -1793,6 +1805,12 @@ footer .container7 ul {
     
 
 }
+footer .container7 .terms {
+    /* border: 1px solid rgb(17, 0, 255); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 footer .container7 hr{
 
     width:100%;
@@ -1801,6 +1819,7 @@ footer .container7 hr{
     
 }
 .terms{
+    
     display: flex;
     flex-wrap: wrap;
     align-items: center;
